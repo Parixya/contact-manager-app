@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.98b9da25.css",
-    "main.js": "/static/js/main.e4e2edfe.js",
-    "static/media/Spinner.gif": "/static/media/Spinner.a87a4644eae33b480237.gif",
-    "static/media/notfound.gif": "/static/media/notfound.0777adefc56f39c2c1d5.gif",
-    "static/media/for-form.gif": "/static/media/for-form.030901305b7afd3e009d.gif",
-    "index.html": "/index.html",
-    "main.98b9da25.css.map": "/static/css/main.98b9da25.css.map",
-    "main.e4e2edfe.js.map": "/static/js/main.e4e2edfe.js.map"
+    "main.css": "/contact-manager-app/static/css/main.98b9da25.css",
+    "main.js": "/contact-manager-app/static/js/main.e4b560ad.js",
+    "static/media/Spinner.gif": "/contact-manager-app/static/media/Spinner.a87a4644eae33b480237.gif",
+    "static/media/notfound.gif": "/contact-manager-app/static/media/notfound.0777adefc56f39c2c1d5.gif",
+    "static/media/for-form.gif": "/contact-manager-app/static/media/for-form.030901305b7afd3e009d.gif",
+    "index.html": "/contact-manager-app/index.html",
+    "main.98b9da25.css.map": "/contact-manager-app/static/css/main.98b9da25.css.map",
+    "main.e4b560ad.js.map": "/contact-manager-app/static/js/main.e4b560ad.js.map"
   },
   "entrypoints": [
     "static/css/main.98b9da25.css",
-    "static/js/main.e4e2edfe.js"
+    "static/js/main.e4b560ad.js"
   ]
 }
